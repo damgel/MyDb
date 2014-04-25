@@ -1,0 +1,9 @@
+C:\proyectos\MyDb\MyDb\MyDb\bin\Debug\MyDb.dll.config
+C:\proyectos\MyDb\MyDb\MyDb\bin\Debug\MyDb.dll
+C:\proyectos\MyDb\MyDb\MyDb\bin\Debug\MyDb.pdb
+C:\proyectos\MyDb\MyDb\MyDb\bin\Debug\MyDb.xml
+C:\proyectos\MyDb\MyDb\MyDb\obj\Debug\MyDb.Resources.resources
+C:\proyectos\MyDb\MyDb\MyDb\obj\Debug\MyDb.vbproj.GenerateResource.Cache
+C:\proyectos\MyDb\MyDb\MyDb\obj\Debug\MyDb.dll
+C:\proyectos\MyDb\MyDb\MyDb\obj\Debug\MyDb.xml
+C:\proyectos\MyDb\MyDb\MyDb\obj\Debug\MyDb.pdb
